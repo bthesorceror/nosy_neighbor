@@ -29,7 +29,7 @@ var tape         = require('tape'),
     var emitter1 = new EventEmitter(),
         emitter2 = new EventEmitter();
 
-    var neighbor = (new NosyNeighbor(cb))
+    var neighbor = (new NosyNeighbor(cb));
 
     neighbor.peek(emitter1);
     neighbor.peek(emitter2);
