@@ -1,6 +1,9 @@
 Nosy Neighbor
 =============
 
+[![Build
+Status](https://travis-ci.org/bthesorceror/nosy_neighbor.png?branch=master)](https://travis-ci.org/bthesorceror/nosy_neighbor)
+
 Listen in on what event emitters are doing.
 
 Usage
