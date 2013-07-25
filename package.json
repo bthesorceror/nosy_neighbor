@@ -1,0 +1,26 @@
+{
+  "name": "nosy_neighbor",
+  "version": "0.0.1",
+  "description": "Listen in on what event emitters are doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bthesorceror/nosy_neighbor"
+  },
+  "keywords": [
+    "eventemitter",
+    "listening",
+    "decorator"
+  ],
+  "author": "Brandon Farmer",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bthesorceror/nosy_neighbor/issues"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  }
+}
